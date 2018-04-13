@@ -8,9 +8,12 @@ namespace KeysOnboardingProject2.Models
 {
     public class Customer
     {
-        public int Id { get; set; }
-        [Required]
+        public virtual int Id { get; set; }
+        [Display(Name = "Customer Name")]
+        [Required(ErrorMessage = "Customer name is required")]
+        [RegularExpression(@"^[a-zA-Z0-9'' ']+$", ErrorMessage = "Special charecters are not allowed")]
         public string Name { get; set; }
         public string Address { get; set; }
+        public virtual List<ProductSold> ProductSolds { get; set; }
     }
 }
