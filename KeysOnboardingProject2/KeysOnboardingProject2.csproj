@@ -172,6 +172,14 @@
     <Compile Include="Migrations\201803290138169_CreateProductSold.Designer.cs">
       <DependentUpon>201803290138169_CreateProductSold.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201804160127414_Edit customer.cs" />
+    <Compile Include="Migrations\201804160127414_Edit customer.Designer.cs">
+      <DependentUpon>201804160127414_Edit customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201804160140508_Edit Product.cs" />
+    <Compile Include="Migrations\201804160140508_Edit Product.Designer.cs">
+      <DependentUpon>201804160140508_Edit Product.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\KeysOnboardingDbContext.cs" />
@@ -266,6 +274,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201803290138169_CreateProductSold.resx">
       <DependentUpon>201803290138169_CreateProductSold.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804160127414_Edit customer.resx">
+      <DependentUpon>201804160127414_Edit customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804160140508_Edit Product.resx">
+      <DependentUpon>201804160140508_Edit Product.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

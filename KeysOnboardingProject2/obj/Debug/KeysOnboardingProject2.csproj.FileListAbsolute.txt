@@ -66,7 +66,6 @@ E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\bin\Microso
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\bin\Microsoft.AI.WindowsServer.xml
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\bin\Microsoft.AI.Web.xml
-E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.csprojResolveAssemblyReference.cache
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.csproj.CoreCompileInputs.cache
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.dll
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.pdb
@@ -75,3 +74,5 @@ E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\K
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.CreateProduct.resources
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.CreateStore.resources
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.CreateProductSold.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.Editcustomer.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditProduct.resources
