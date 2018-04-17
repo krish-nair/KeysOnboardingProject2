@@ -2,13 +2,12 @@
 
 @{
     ViewBag.Title = "Index";
-    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Index</h2>
+<h2>Store List</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    <a id="btnCreate" href="#myModal" class="btn btn-success" data-toggle="modal">Create New Store</a>
 </p>
 <table class="table">
     <tr>
@@ -30,11 +29,36 @@
             @Html.DisplayFor(modelItem => item.Address)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
-            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+            <a id="btnEdit" href="#myModal" class="btn btn-info" data-toggle="modal" data-id="@item.Id">Edit</a>
+            <a id="btnDelete" href="myModal" class="btn btn-danger" data-toggle="modal" data-id="@item.Id">Delete</a>
         </td>
     </tr>
 }
 
 </table>
+
+<div id="myModal" class="modal fade" role="dialog" aria-labelledby="myLargeModalLabel" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div id="modal-content"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        $("#btnCreate").click(function (event) {
+            $("#modal-contet").load("/Store/Create");
+        });
+
+        $("#btnEdit").click(function (event) {
+            $("#modal-content").load("/Store/Edit/" + $(this).data("id"));
+        });
+
+        $("#btnDelete").click(function (event) {
+            $("#modal-content").load("/Store/Delete/" + $(this).data("id"));
+        });
+    </script>
+    }

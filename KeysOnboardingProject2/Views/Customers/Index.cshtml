@@ -10,10 +10,14 @@
     <a id="btnCreate" href="#myModal" data-toggle="modal" class="btn btn-success">Create New</a>
 </p>
 
-<table class="table table-striped table-hover table-bordered">
+<table class="table">
     <tr>
-        <th>@Html.DisplayNameFor(model=>model.Name)</th>
-        <th>@Html.DisplayNameFor(model=>model.Address)</th>
+        <th>
+            @Html.DisplayNameFor(model=>model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model=>model.Address)
+        </th>
     </tr>
     @foreach (var item in Model)
     {

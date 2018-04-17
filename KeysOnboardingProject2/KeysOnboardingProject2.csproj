@@ -180,6 +180,10 @@
     <Compile Include="Migrations\201804160140508_Edit Product.Designer.cs">
       <DependentUpon>201804160140508_Edit Product.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201804160455550_Edit Store.cs" />
+    <Compile Include="Migrations\201804160455550_Edit Store.Designer.cs">
+      <DependentUpon>201804160455550_Edit Store.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\KeysOnboardingDbContext.cs" />
@@ -280,6 +284,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201804160140508_Edit Product.resx">
       <DependentUpon>201804160140508_Edit Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804160455550_Edit Store.resx">
+      <DependentUpon>201804160455550_Edit Store.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
