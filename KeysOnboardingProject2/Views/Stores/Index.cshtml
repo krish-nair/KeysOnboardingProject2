@@ -50,15 +50,15 @@
 @section scripts{
     <script>
         $("#btnCreate").click(function (event) {
-            $("#modal-contet").load("/Store/Create");
+            $("#modal-content").load("/Stores/Create");
         });
 
         $("#btnEdit").click(function (event) {
-            $("#modal-content").load("/Store/Edit/" + $(this).data("id"));
+            $("#modal-content").load("/Stores/Edit/" + $(this).data("id"));
         });
 
         $("#btnDelete").click(function (event) {
-            $("#modal-content").load("/Store/Delete/" + $(this).data("id"));
+            $("#modal-content").load("/Stores/Delete/" + $(this).data("id"));
         });
     </script>
     }

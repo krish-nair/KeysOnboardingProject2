@@ -77,4 +77,5 @@ E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\K
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.Editcustomer.resources
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditProduct.resources
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditStore.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditProductSold.resources
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.csprojResolveAssemblyReference.cache

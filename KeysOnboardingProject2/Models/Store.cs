@@ -13,7 +13,7 @@ namespace KeysOnboardingProject2.Models
         [Required(ErrorMessage ="Store name is required")]
         [RegularExpression(@"^[a-zA-Z0-9'' '] + $", ErrorMessage ="Special charecters not allowed")]
         public virtual string Name { get; set; }
-        [Display(Name ="Store Name")]
+        [Display(Name ="Store Address")]
         public virtual String Address { get; set; }
     }
 }
