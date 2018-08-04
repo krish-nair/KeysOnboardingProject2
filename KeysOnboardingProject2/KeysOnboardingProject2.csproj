@@ -188,6 +188,58 @@
     <Compile Include="Migrations\201804170118500_Edit ProductSold.Designer.cs">
       <DependentUpon>201804170118500_Edit ProductSold.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201808040509439_EditDatetime.cs" />
+    <Compile Include="Migrations\201808040509439_EditDatetime.Designer.cs">
+      <DependentUpon>201808040509439_EditDatetime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040512374_EditDatetime1.cs" />
+    <Compile Include="Migrations\201808040512374_EditDatetime1.Designer.cs">
+      <DependentUpon>201808040512374_EditDatetime1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040515333_EditDatetime2.cs" />
+    <Compile Include="Migrations\201808040515333_EditDatetime2.Designer.cs">
+      <DependentUpon>201808040515333_EditDatetime2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040521115_EditDatetime3.cs" />
+    <Compile Include="Migrations\201808040521115_EditDatetime3.Designer.cs">
+      <DependentUpon>201808040521115_EditDatetime3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040528164_EditDatetime4.cs" />
+    <Compile Include="Migrations\201808040528164_EditDatetime4.Designer.cs">
+      <DependentUpon>201808040528164_EditDatetime4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040537520_EditDatetime5.cs" />
+    <Compile Include="Migrations\201808040537520_EditDatetime5.Designer.cs">
+      <DependentUpon>201808040537520_EditDatetime5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040539281_EditDatetime6.cs" />
+    <Compile Include="Migrations\201808040539281_EditDatetime6.Designer.cs">
+      <DependentUpon>201808040539281_EditDatetime6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040541325_EditDatetime7.cs" />
+    <Compile Include="Migrations\201808040541325_EditDatetime7.Designer.cs">
+      <DependentUpon>201808040541325_EditDatetime7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040543333_EditDatetime8.cs" />
+    <Compile Include="Migrations\201808040543333_EditDatetime8.Designer.cs">
+      <DependentUpon>201808040543333_EditDatetime8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040840013_EditDatetime9.cs" />
+    <Compile Include="Migrations\201808040840013_EditDatetime9.Designer.cs">
+      <DependentUpon>201808040840013_EditDatetime9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040904461_201808040840013_EditDatetime9.cs" />
+    <Compile Include="Migrations\201808040904461_201808040840013_EditDatetime9.Designer.cs">
+      <DependentUpon>201808040904461_201808040840013_EditDatetime9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040949405_NewProductSold.cs" />
+    <Compile Include="Migrations\201808040949405_NewProductSold.Designer.cs">
+      <DependentUpon>201808040949405_NewProductSold.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201808040957456_SomeEdit.cs" />
+    <Compile Include="Migrations\201808040957456_SomeEdit.Designer.cs">
+      <DependentUpon>201808040957456_SomeEdit.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\KeysOnboardingDbContext.cs" />
@@ -337,6 +389,45 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201804170118500_Edit ProductSold.resx">
       <DependentUpon>201804170118500_Edit ProductSold.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040509439_EditDatetime.resx">
+      <DependentUpon>201808040509439_EditDatetime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040512374_EditDatetime1.resx">
+      <DependentUpon>201808040512374_EditDatetime1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040515333_EditDatetime2.resx">
+      <DependentUpon>201808040515333_EditDatetime2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040521115_EditDatetime3.resx">
+      <DependentUpon>201808040521115_EditDatetime3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040528164_EditDatetime4.resx">
+      <DependentUpon>201808040528164_EditDatetime4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040537520_EditDatetime5.resx">
+      <DependentUpon>201808040537520_EditDatetime5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040539281_EditDatetime6.resx">
+      <DependentUpon>201808040539281_EditDatetime6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040541325_EditDatetime7.resx">
+      <DependentUpon>201808040541325_EditDatetime7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040543333_EditDatetime8.resx">
+      <DependentUpon>201808040543333_EditDatetime8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040840013_EditDatetime9.resx">
+      <DependentUpon>201808040840013_EditDatetime9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040904461_201808040840013_EditDatetime9.resx">
+      <DependentUpon>201808040904461_201808040840013_EditDatetime9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040949405_NewProductSold.resx">
+      <DependentUpon>201808040949405_NewProductSold.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201808040957456_SomeEdit.resx">
+      <DependentUpon>201808040957456_SomeEdit.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

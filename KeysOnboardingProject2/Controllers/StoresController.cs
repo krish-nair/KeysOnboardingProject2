@@ -20,7 +20,7 @@ namespace KeysOnboardingProject2.Controllers
             return View(db.Stores.ToList());
         }
 
-        // GET: Stores/Details/5
+        // GET: Stores/Details/1
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -76,7 +76,7 @@ namespace KeysOnboardingProject2.Controllers
         // POST: Stores/Edit/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
+        [HttpPut]
         [ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "Id,Name,Address")] Store store)
         {

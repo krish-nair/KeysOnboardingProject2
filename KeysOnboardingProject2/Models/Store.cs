@@ -8,12 +8,15 @@ namespace KeysOnboardingProject2.Models
 {
     public class Store
     {
-        public virtual int Id { get; set; }
+        public int Id { get; set; }
+
         [Display(Name ="Store Name")]
         [Required(ErrorMessage ="Store name is required")]
-        [RegularExpression(@"^[a-zA-Z0-9'' '] + $", ErrorMessage ="Special charecters not allowed")]
-        public virtual string Name { get; set; }
+        public string Name { get; set; }
+
         [Display(Name ="Store Address")]
-        public virtual String Address { get; set; }
+        public String Address { get; set; }
+
+        public List<ProductSold> ProductSolds { get; set; }
     }
 }

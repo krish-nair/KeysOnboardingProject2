@@ -78,4 +78,17 @@ E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\K
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditProduct.resources
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditStore.resources
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditProductSold.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditDatetime.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditDatetime1.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditDatetime2.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditDatetime3.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditDatetime4.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditDatetime5.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditDatetime6.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditDatetime7.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditDatetime8.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.EditDatetime9.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations._201808040840013_EditDatetime9.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.NewProductSold.resources
+E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.Migrations.SomeEdit.resources
 E:\ASP.Net\MVCProjects\KeysOnboardingProject2\KeysOnboardingProject2\obj\Debug\KeysOnboardingProject2.csprojResolveAssemblyReference.cache
